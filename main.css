@@ -1,5 +1,5 @@
 @import url('https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css');
-@import url('/fonts.css');
+@import url('fonts.css');
 
 * {
     font-family: 'Lato';
