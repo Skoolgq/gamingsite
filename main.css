@@ -606,3 +606,33 @@ input:checked+.slider:before {
     text-align: left;
     left: 10vh;
 }*/
+
+
+
+
+
+.sidebar {
+  background-color: #333;
+  width: 200px;
+  height: 100vh;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px; /* Space from the top */
+}
+
+.sidebar ul li {
+  padding: 10px;
+  color: #fff;
+}
+
+.sidebar ul li a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.sidebar ul li i {
+  margin-right: 10px;
+}
